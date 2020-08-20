@@ -34,6 +34,15 @@
       <path value="$PROJECT_DIR$/app/vendor/symfony/polyfill-intl-grapheme" />
       <path value="$PROJECT_DIR$/app/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/app/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/app/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/app/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/app/vendor/doctrine/inflector" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
